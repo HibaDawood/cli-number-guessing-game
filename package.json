@@ -1,0 +1,38 @@
+{
+  "name": "@hibadawood25/cli-number-guessing-game",
+  "version": "1.0.1",
+  "description": "This is a number guessing game.",
+  "main": "index.js",
+  "keywords": [
+  "Guessing game",
+  "Number game",
+  "Guess the number",
+ " Random number",
+ " Range",
+  "Guessing strategy",
+ " Correct guess",
+  "Incorrect guess",
+ "User input",
+  "Computer-generated number",
+ "Guess limit",
+ " Probability",
+ " Algorithm",
+  "User interface",
+  "Interactive gameplay"],
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
