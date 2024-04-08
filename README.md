@@ -4,7 +4,7 @@ This is a number guessing game.
 This is a simple calculator.
 
 <h1 align="center">Hi 👋, I'm Hiba M.Dawood</h1>
-<h3 align="center">I am a programmer from Pakistan.</h3>
+<h3 align="center">A passionate full-stack developer from Pakistan.</h3>
 
 
 <p align="left"> <img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/girl-coding-designing-with-pc-illustration_418302-2383.jpg" alt="hibadawood" /> </p>
