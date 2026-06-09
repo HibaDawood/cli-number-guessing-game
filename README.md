@@ -15,7 +15,7 @@ A simple yet engaging command-line guessing game built using TypeScript and Node
 
 ## 🛠️ Tech Stack
 
-* **Language:** TypeScript / Node.js
+* **Language:** TypeScript & Node.js
 * **Dependencies:** inquirer
 
 ## 🚀 How to Run & Use
